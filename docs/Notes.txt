@@ -1,0 +1,5 @@
+/NOTE: phpunit tests/TestApiPostRequest.php --filter '^.*::testbeBasicTest$'
+
+//TODO: validate that the inputs are no empty for POST or PUT
+
+//NOTE: Check if to do can see it
